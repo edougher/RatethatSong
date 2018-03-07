@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rate that Song</string>
+    <string name="splashImg">Person with BoomBox image</string>
+    <string name="splashDesc">Rate these Songs</string>
+    <string name="khrysis">Khrysis - All About It</string>
+    <string name="apolloBrown">Apollo Brown - Lower The Boom</string>
+    <string name="jDilla">J Dilla - The Shining</string>
+    <string name="jayz">Jay-Z - A million and One Questions</string>
+    <string name="playBtn">Play</string>
+</resources>
